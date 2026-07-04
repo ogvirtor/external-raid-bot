@@ -39,26 +39,26 @@ Este bot deve ser utilizado apenas como ferramenta de aprendizado e testes em se
 INSTALAÇÃO
 
 1. Clone o repositório:
-git clone https://github.com/SEU_USUARIO/legiao-bot.git
-cd legiao-bot
+`git clone https://github.com/ogvirtor/external-raid-bot.git
+cd legiao-bot`
 
 2. Instale as dependências:
-pip install discord.py
+`pip install discord.py`
 
 3. Substitua as coisas:
-TOKEN = ""
+`TOKEN = ""
 PROTECTED_SERVER_ID =
-INVITE_LINK = ""
+INVITE_LINK = ""`
 
 4. Execute o bot:
-python main.py
+`python main.py`
 
-COMO USAR
+**COMO USAR ?**
 
-1. Convide o bot para o seu servidor de testes
+`1. Convide o bot para o seu servidor de testes
 2. Use o comando: /panel
 3. Selecione seu idioma
-4. Utilize o painel interativo
+4. Utilize o painel interativo`
 
 Observação: O bot possui uma proteção para não funcionar dentro do servidor oficial (configurável).
 
