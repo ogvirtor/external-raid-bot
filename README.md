@@ -1,10 +1,10 @@
-Legião Bot - Ferramenta Educacional para Discord
+# Legião Bot - Bot externo de Raid
 
 Ferramenta educacional para testes controlados e estudo de desenvolvimento de bots no Discord.
 
-AVISO IMPORTANTE (LEIA COM ATENÇÃO)
+## AVISO IMPORTANTE (LEIA COM ATENÇÃO)
 
-Este projeto foi desenvolvido exclusivamente para fins educacionais, pesquisa e testes em ambientes controlados.
+Este projeto foi desenvolvido exclusivamente para **fins educacionai**s, **pesquisa e testes em ambientes controlados**.
 
 Permitido apenas em:
 - Servidores que você possui
@@ -45,11 +45,10 @@ cd legiao-bot
 2. Instale as dependências:
 pip install discord.py
 
-3. Crie um arquivo .env na raiz do projeto:
-
-TOKEN=SEU_TOKEN_DO_BOT_AQUI
-CLIENT_ID=SEU_CLIENT_ID_AQUI
-PROTECTED_SERVER_ID=ID_DO_SEU_SERVIDOR_PROTEGIDO
+3. Substitua as coisas:
+TOKEN = ""
+PROTECTED_SERVER_ID =
+INVITE_LINK = ""
 
 4. Execute o bot:
 python main.py
