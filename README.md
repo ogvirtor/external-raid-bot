@@ -56,8 +56,11 @@ INVITE_LINK = ""`
 **COMO USAR ?**
 
 `1. Convide o bot para o seu servidor de testes`
+
 `2. Use o comando: /panel`
+
 `3. Selecione seu idioma`
+
 `4. Utilize o painel interativo`
 
 Observação: O bot possui uma proteção para não funcionar dentro do servidor oficial (configurável).
